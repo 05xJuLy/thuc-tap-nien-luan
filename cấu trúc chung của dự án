@@ -1,0 +1,9 @@
+ten_du_an/
+├── .venv/
+├── .gitignore
+├── requirements.txt
+├── app.py
+├── templates/
+│   └── base.html
+└── static/
+    └── style.css
